@@ -1,7 +1,7 @@
 # Spotify-Clone
 Spotfiy clone using SpringBoot 
 
-1. Introduction
+1. Introduction:
 Music streaming platforms have transformed the way users access and listen to music.
 Traditional applications often struggle with scalability and maintenance, making it essential to
 adopt a microservices-based architecture. This project aims to develop a Spotify-like music
