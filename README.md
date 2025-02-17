@@ -76,5 +76,8 @@ This ensures better performance, scalability, and maintainability.
 ◉ A scalable and maintainable microservices architecture.
 
 
+# ER Diagram
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/9022c5fa-f5fb-4281-9c80-32b60503b83a" />
+
 
 # 🚀 Stay tuned for updates and contributions! 🎵
