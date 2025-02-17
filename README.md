@@ -1,7 +1,5 @@
-# Spotify-Clone
-Spotfiy clone using SpringBoot 
-
-Music Streaming Platform
+## Spotify-Clone
+# Spotfiy clone using SpringBoot 
 
 # Introduction
 
@@ -11,19 +9,19 @@ Music streaming platforms have transformed the way users access and listen to mu
 
 Monolithic music applications face challenges such as scalability issues, high server load, and lack of flexibility. A microservices approach enables independent services to manage different functionalities, such as:
 
--User Authentication
+  -User Authentication
 
--Music Catalog
+  -Music Catalog
 
--Playlists
+  -Playlists
 
--Streaming
+  -Streaming
 
--Payments
+  ◉Payments
 
 This ensures better performance, scalability, and maintainability.
 
-Objectives
+# Objectives
 
 Design and develop a scalable and efficient music streaming application.
 
