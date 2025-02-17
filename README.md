@@ -65,15 +65,15 @@ This ensures better performance, scalability, and maintainability.
 
 ◉Authentication: JWT-based authentication
 
-# Expected Outcome
+# Expected Outcomes
 
-A fully functional microservices-based music streaming platform.
+◉ A fully functional microservices-based music streaming platform.
 
-Seamless concurrent streaming for multiple users.
+◉ Seamless concurrent streaming for multiple users.
 
-Optimized search and recommendation system.
+◉ Optimized search and recommendation system.
 
-A scalable and maintainable microservices architecture.
+◉ A scalable and maintainable microservices architecture.
 
 
 
