@@ -3,23 +3,23 @@ Spotfiy clone using SpringBoot
 
 Music Streaming Platform
 
-Introduction
+# Introduction
 
 Music streaming platforms have transformed the way users access and listen to music. Traditional applications often struggle with scalability and maintenance, making it essential to adopt a microservices-based architecture. This project aims to develop a Spotify-like music streaming application using Spring Boot microservices, Eureka Server, and API Gateway, allowing users to browse, stream, and manage playlists efficiently.
 
-Problem Statement
+# Problem Statement
 
 Monolithic music applications face challenges such as scalability issues, high server load, and lack of flexibility. A microservices approach enables independent services to manage different functionalities, such as:
 
-User Authentication
+-User Authentication
 
-Music Catalog
+-Music Catalog
 
-Playlists
+-Playlists
 
-Streaming
+-Streaming
 
-Payments
+-Payments
 
 This ensures better performance, scalability, and maintainability.
 
